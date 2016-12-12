@@ -12,8 +12,7 @@
 
 ### 报名信息汇总（人数统计）
 
-* 日本人
- * https://docs.google.com/forms/d/1q_x-zQLqualo63exY7xvjNLXVhKmICnKjIim2rqA1Wc/viewanalytics
+* 日本人(https://docs.google.com/forms/d/1q_x-zQLqualo63exY7xvjNLXVhKmICnKjIim2rqA1Wc/viewanalytics) 
 
 * 中国人
  * https://docs.google.com/forms/d/1DXtm5GFnSCgIx4xexLBiy7-Dz0l5S44SGtkCPi2E2hY/viewanalytics
